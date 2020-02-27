@@ -1,6 +1,7 @@
 # test
 
 a [Sails v1](https://sailsjs.com) application
+# npm -g install sails
 
 
 ### Links
